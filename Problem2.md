@@ -7,9 +7,13 @@ WebLog: (UserId, URL, Timestamp)
 eg
 
 1 ABC T0
+
 1 XYZ T2
+
 1 PQR T1
+
 2 DEF T2
+
 3 PQR T3
 
 # TargetUrl:
